@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Upload Image Using Intent</string>
+    <string name="browse_image">Browse Gallary</string>
+    <string name="clear_image">Clear Image</string>
+</resources>
